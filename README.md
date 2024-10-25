@@ -10,3 +10,10 @@ Proyek Flutter ini bertujuan untuk membuat aplikasi yang dapat memeriksa apakah 
 Proyek ini dirancang sebagai aplikasi Flutter edukatif yang membantu pengguna memahami konsep bilangan prima dan perhitungan FPB. Dengan tampilan yang intuitif, pengguna dapat langsung memasukkan bilangan yang ingin diperiksa dan mendapatkan hasil dalam hitungan detik. 
 
 Penggunaan Flutter dalam aplikasi ini menunjukkan kekuatan framework tersebut untuk membangun aplikasi lintas platform dengan performa tinggi dan UI yang interaktif. Proyek ini sangat cocok untuk pengguna yang ingin mempelajari cara membuat aplikasi kalkulator atau operasi matematika sederhana menggunakan Flutter.
+
+# SHOWCASE
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/001.1.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/001.2.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/001.3.png" width="200px"/>
+</div>
